@@ -1,0 +1,35 @@
+.error-msg{
+  color: red;
+  text-align:center;
+  font-size:18px
+}
+.am-tab-bar{ //使tabbar始终在底部
+  z-index:10;
+  position:fixed;
+  bottom:0;
+  width:100%;
+  height:auto; // 高度由子元素撑开, 避免100%的情况遮挡上面内容
+
+}
+.am-navbar{
+  z-index:10;
+  position:fixed;
+  top:0;
+  width:100%;
+}
+
+.chat-me {
+  .am-list-line{
+    .am-list-extra {
+      flex-basis: auto; /*宽度包裹内容*/
+    }
+    .am-list-content {
+      padding-right: 15px;
+      text-align: right;
+    }
+  }
+}
+
+
+
+

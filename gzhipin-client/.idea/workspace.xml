@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b09a54b3-26b3-4c98-88d7-13884d4d2773" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Less File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqQ3VTI43VFLjJ7dLibHvaj2Pr" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../redux_mini" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\IntelliJ IDEA 2019.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\clark\IdeaProjects\zhipin\gzhipin-client\src" />
+      <recent name="C:\Users\clark\IdeaProjects\zhipin\gzhipin-client\src\containers" />
+      <recent name="C:\Users\clark\IdeaProjects\zhipin\gzhipin-client\src\components\avatar-selector\img" />
+      <recent name="C:\Users\clark\IdeaProjects\react_employ\gzhipin-client_blank\src\components\logo\imgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\clark\IdeaProjects\zhipin\gzhipin-client\src\assets" />
+      <recent name="C:\Users\clark\IdeaProjects\zhipin\gzhipin-client\src\components\nav-footer\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b09a54b3-26b3-4c98-88d7-13884d4d2773" name="Default Changelist" comment="" />
+      <created>1583667445659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583667445659</updated>
+      <workItem from="1583667449128" duration="829000" />
+      <workItem from="1583735613597" duration="15224000" />
+      <workItem from="1583806457716" duration="13573000" />
+      <workItem from="1583893547607" duration="761000" />
+      <workItem from="1583899149951" duration="3000" />
+      <workItem from="1584155209678" duration="18099000" />
+      <workItem from="1584198524180" duration="7525000" />
+      <workItem from="1584206065308" duration="7395000" />
+      <workItem from="1584237336905" duration="8187000" />
+      <workItem from="1584342686878" duration="11599000" />
+      <workItem from="1584414614186" duration="12734000" />
+      <workItem from="1584516964886" duration="9114000" />
+      <workItem from="1584620868445" duration="5352000" />
+      <workItem from="1584696653361" duration="8869000" />
+      <workItem from="1584777731920" duration="3670000" />
+      <workItem from="1584840808153" duration="601000" />
+      <workItem from="1584932935090" duration="9115000" />
+      <workItem from="1585029603916" duration="12078000" />
+      <workItem from="1585127474234" duration="3614000" />
+      <workItem from="1585193894566" duration="6896000" />
+      <workItem from="1585233361224" duration="717000" />
+      <workItem from="1585278633689" duration="14437000" />
+      <workItem from="1585395788083" duration="10421000" />
+      <workItem from="1585553727090" duration="11620000" />
+      <workItem from="1585660614083" duration="6191000" />
+      <workItem from="1585711319701" duration="2914000" />
+      <workItem from="1585724295518" duration="13933000" />
+      <workItem from="1585795604579" duration="1616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

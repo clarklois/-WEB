@@ -1,0 +1,27 @@
+.error-msg {
+  color: red;
+  text-align: center;
+  font-size: 18px;
+}
+.am-tab-bar {
+  z-index: 10;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+}
+.am-navbar {
+  z-index: 10;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.chat-me .am-list-line .am-list-extra {
+  flex-basis: auto;
+  /*宽度包裹内容*/
+}
+.chat-me .am-list-line .am-list-content {
+  padding-right: 15px;
+  text-align: right;
+}
+/*# sourceMappingURL=index.css.map */
